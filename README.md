@@ -15,3 +15,4 @@ Misc. Ethereum Smart Contract Resources
 * https://github.com/pir8aye/Token-Factory <-- contract templates
 * http://remix.ethereum.org/ <-- verify solidity contract
 * https://cryptozombies.io/en <-- learn to code solidity contracts while making zombie game
+* https://github.com/btcpimp/openzeppelin-solidity <-- solidity contract templates
